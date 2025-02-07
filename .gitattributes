@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+*.obj filter=lfs diff=lfs merge=lfs -text
+=======
 .blend filter=lfs diff=lfs merge=lfs -text
 .obj filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 5a4a0c1d7ab62a0472a3f751d57a0e0844c70452
